@@ -20,7 +20,11 @@ The dataset used in this project (`wines_SPA.csv`) contains information about Sp
 
 ## Exploratory Data Analysis
 
-The exploratory data analysis (EDA) notebook (`EDA.ipynb`) provides insights into the dataset, including histograms and scatter plots visualizing various attributes of Spanish wines.
+The exploratory data analysis (EDA) notebook (`EDA.ipynb`) provides insights into the dataset.
+
+During the data analysis, we observed the following insights:
+- The cheapest wine in the dataset costs around 4.9, while the most expensive one is priced at 3119.
+- Wines from the year 2004 have the highest number of reviews.
 
 ## Web Application Dashboard
 
